@@ -17,6 +17,7 @@ My name is Nicolas, and I work as a Freelance Fullstack Jr. Developer. I am from
 - Eclipse
 - VSC
 - Kate
+- yakuake
 
 ## My SO
 - openSUSE
