@@ -10,8 +10,13 @@ My name is Nicolas, and I work as a Freelance Fullstack Jr. Developer. I am from
 
 ## Technologies I Enjoy
 - Angular
-- Django
+- django
 - Spring Boot
+
+## Tools I Enjoy
+- Eclipse
+- VSC
+- Kate
 
 ## My SO
 - openSUSE
