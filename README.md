@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Nicolas, and I work as a Freelance Fullstack Jr. Developer. I am from Río Gallegos, Argentina.
+My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from Río Gallegos, Argentina.
 
 ## My Favorite Languages
 - Python
