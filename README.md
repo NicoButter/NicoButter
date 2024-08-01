@@ -34,4 +34,4 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - ⚡ Fun fact: I love make music. [My SoundCloud](https://soundcloud.com/user-785671138/perda)
 
 
-![Snake animation](https://github.com/tu_nombre_de_usuario/tu_repositorio/blob/output/snake.svg)
+![Snake animation](https://github.com/NicoButter/NicoButter/blob/output/snake.svg)
