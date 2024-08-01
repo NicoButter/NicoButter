@@ -1,4 +1,3 @@
-YAML
 name: Generate Snake
 
 on:
@@ -11,29 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2   
-
+        uses: actions/checkout@v2
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: NicoButter
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9   
-
+            dist/github-snake.svg  # Single space after colon for clarity
 
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'   
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Add generated files
+        run: |
+          git add dist/github-snake.svg  # Explicitly add the generated file
 
       - name: Commit changes
         run: |
-          git   
- add -A
           git commit -m "Updated snake animation"
 
       - name: Push changes
