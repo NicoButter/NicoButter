@@ -32,3 +32,7 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - 💬 Ask me about fullstack development, Python, and Java.
 - 📫 How to reach me: [email me](mailto:nicobutter@gmail.com) | [My LinkedIn](www.linkedin.com/in/nicolás-butterfield-9964aa1a3)
 - ⚡ Fun fact: I love make music. [My SoundCloud](https://soundcloud.com/user-785671138/perda)
+
+<p align="center">
+ <img width="1000" src="https://github.com/NicoButter/NicoButter/raw/output/snake.svg" alt="snake"/>
+</p>
