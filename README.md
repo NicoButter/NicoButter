@@ -34,5 +34,5 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - ⚡ Fun fact: I love make music. [My SoundCloud](https://soundcloud.com/user-785671138/perda)
 
 <p align="center">
- <img width="1000" src="https://github.com/NicoButter/NicoButter/raw/output/snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/NicoButter/NicoButter/raw/output/ula.svg" alt="snake"/>
 </p>
