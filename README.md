@@ -12,6 +12,9 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - Angular
 - django
 - Spring Boot
+- Postgre
+- MySQL
+- GitHUB
 
 ## Tools I Enjoy
 - Eclipse
@@ -21,8 +24,7 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - Clementine
 
 ## My SO
-- openSUSE
-
+- openSUSE on my Victus D16
 
 ## More About Me
 - 🔭 I’m currently working on freelance projects and personal development.
