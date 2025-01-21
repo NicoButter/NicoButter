@@ -12,7 +12,7 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - Angular
 - django
 - Spring Boot
-- Postgre
+- PostgreSQL
 - MySQL
 - Git
 
