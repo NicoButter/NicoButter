@@ -14,7 +14,7 @@ My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from 
 - Spring Boot
 - Postgre
 - MySQL
-- GitHUB
+- Git
 
 ## Tools I Enjoy
 - Eclipse
