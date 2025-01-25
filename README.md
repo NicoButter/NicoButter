@@ -1,37 +1,33 @@
-## Hello! 👋
+👋 Hello, World! I'm Nicolás
+🎨 Freelance Fullstack Developer Jr. | 🌍 Based in Río Gallegos, Argentina
 
-My name is Nicolas, and I work as a Freelance Fullstack Developer Jr. I am from Río Gallegos, Argentina.
+🚀 About Me
+🔭 Currently Working On: Freelance projects and personal development.
+🌱 Currently Learning: Advanced Django, Angular, and Microservices Architecture.
+☁️ Seeking Growth In: Cloud computing (AWS/GCP) and scalable systems.
+🤝 Looking to Collaborate On: Open-source projects related to web development or machine learning.
+💬 Ask Me About: Fullstack development, Python, and Java.
+💻 Tech Stack
+Languages I Code In
 
-## My Favorite Languages
-- Python
-- Java
-- TypeScript
-- JavaScript
+Python - Java - PHP (for now)
 
-## Technologies I Enjoy
-- Angular
-- django
-- Spring Boot
-- PostgreSQL
-- MySQL
-- Git
+Frameworks & Tools I Love
+Frontend: Angular - HTML - Js - CSS
+Backend: django -  Springboot
+Fullstack: django - Springboot
+Databases: Mysql - PostgreSQL
+Version Control: Git
 
-## Tools I Enjoy
-- Eclipse
-- VSC
-- Kate
-- yakuake
-- Clementine
-
-## My SO
-- openSUSE on my Victus D16
-
-## More About Me
-- 🔭 I’m currently working on freelance projects and personal development.
-- 🌱 I’m currently learning advanced concepts in django & Angular and exploring microservices architecture.
-- 👯 I’m looking to collaborate on open-source projects related to web development and machine learning.
-- 🤔 I’m looking for help with improving my skills in cloud computing (AWS/GCP).
-- 💬 Ask me about fullstack development, Python, and Java.
-- 📫 How to reach me: [email me](mailto:nicobutter@gmail.com) | [My LinkedIn](www.linkedin.com/in/nicolás-butterfield-9964aa1a3)
-- ⚡ Fun fact: I love make music. [My SoundCloud](https://soundcloud.com/user-785671138/perda)
-
+🛠 Tools I Use
+Coding IDEs: Eclipse, Visual Studio Code, Kate
+Favorite Terminal: Yakuake
+Music Companion: Clementine
+OS: openSUSE (on my trusty Victus D16 💻)
+🌟 Fun Facts
+🎶 Music Is Life: I produce music in my free time. Check out my SoundCloud.
+🌌 Big Dreamer: Passionate about learning and building scalable apps that make a difference.
+📬 Let's Connect!
+✉️ Email me
+💼 LinkedIn
+🖥️ GitHub
