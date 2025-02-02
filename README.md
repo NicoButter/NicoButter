@@ -1,5 +1,6 @@
 # 👋 Hello, World! I'm Nicolás  
 🎨 **Freelance Fullstack Developer Jr.** | 🌍 Based in Río Gallegos, Argentina  
+🚀 **Building scalable apps and dreaming big!**
 
 ---
 
@@ -9,6 +10,7 @@
 - ☁️ **Seeking Growth In:** Cloud computing (AWS/GCP) and scalable systems.  
 - 🤝 **Looking to Collaborate On:** Open-source projects related to web development or machine learning.  
 - 💬 **Ask Me About:** Fullstack development, Python, and Java.  
+- 🎶 **Fun Fact:** I produce music in my free time. Check out my latest track on [SoundCloud](https://soundcloud.com/user-785671138/perda).
 
 ---
 
@@ -45,4 +47,4 @@
 ## 📬 Let's Connect!  
 - ✉️ [Email me](mailto:nicobutter@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolás-butterfield-9964aa1a3)  
-- 🖥️ [GitHub](https://github.com/TUUSUARIO)  
+- 🖥️ [GitHub](https://github.com/NicoButter)  
