@@ -44,7 +44,7 @@ My development environment consists of:
 * **IDEs:** Eclipse, Visual Studio Code, Kate
 * **Terminal:** Yakuake
 * **Music Player:** Clementine
-* **Operating System:** openSUSE (on my trusty Victus D16 💻)  *(Consider removing specific hardware details unless relevant)*
+* **Operating System:** openSUSE (on my trusty Victus D16 💻)
 
 ---
 
