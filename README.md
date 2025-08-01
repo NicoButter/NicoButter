@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/perfil.png" alt="Nicolás Butterfield" width="600"/>
+  <img src="img/perfil.png" alt="Nicolás Butterfield" width="800"/>
 </p>
 
 # 👋 Hello, World! I'm Nicolás Butterfield  
