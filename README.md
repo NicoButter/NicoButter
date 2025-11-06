@@ -2,9 +2,21 @@
   <img src="img/perfil.png" alt="Nicolás Butterfield" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Hello+World!;Fullstack+Developer+from+Argentina;Coding+beats+since+2020;Mixing+code+and+music+🎵" alt="Typing SVG">
+</p>
+
+---
+
 # 👋 Hello, World! I'm Nicolás Butterfield  
 🎨 **Freelance Fullstack Developer Jr.** | 🌍 Based in Río Gallegos, Argentina  
 🚀 **I build things with Python, Angular & Spring — and drop beats on the side.**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NicoButter&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/NicoButter?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/NicoButter?label=Stars&style=social)
 
 ---
 
@@ -36,6 +48,33 @@ I'm a passionate junior fullstack developer focused on creating scalable, mainta
 
 ---
 
+## 💡 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [📚 LibroLink](https://github.com/NicoButter/LibroLink) | A library management system built with Django. | Django, PostgreSQL |
+| [🧩 TEAM3 Backend](https://github.com/NicoButter/Proyecto_TEAM3_24112_Backend) | A Java web app with Servlets and JDBC. | Java, Tomcat, MySQL |
+| [🎵 SoundLab](#) | Experimental project mixing music and code. | Python, WebAudio |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NicoButter&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoButter&theme=tokyonight" />
+</p>
+
+---
+
 ## 🖥 My Setup  
 
 - 💻 **Laptop:** HP Victus 16  
@@ -62,4 +101,4 @@ I'm a passionate junior fullstack developer focused on creating scalable, mainta
 
 ---
 
-> *“Code what you love. Build what matters.”*
+> 🧩 *“Sin programador no hay software. Con los demás, solo hay reuniones.”*
