@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Music%20Producer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <p align="center">
-  <img src="img/perfil.png" alt="Nicolás Butterfield" width="220" style="border-radius: 50%;"/>
+  <img src="img/perfil.png" alt="Nicolás Butterfield" width="100%" style="max-width: 600px; border-radius: 15px; object-fit: cover;"/>
 </p>
 
 <p align="center">
