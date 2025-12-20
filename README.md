@@ -133,9 +133,6 @@ fun_fact: "I debug code while listening to my own beats"
   <div style="flex:1 1 320px;max-width:520px;min-width:220px;padding:6px;">
     <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%;height:auto;border-radius:15px;display:block;"/>
   </div>
-  <div style="flex:1 1 320px;max-width:520px;min-width:220px;padding:6px;">
-    <img src="https://streak-stats.demolab.com?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" style="width:100%;height:auto;border-radius:15px;display:block;"/>
-  </div>
 </div>
 
 <div style="max-width:640px;margin:12px auto;text-align:center;">
@@ -147,10 +144,7 @@ fun_fact: "I debug code while listening to my own beats"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoButter&theme=tokyo-night&hide_border=true&radius=15" width="95%" alt="Activity Graph"/>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicoButter&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy"/>
-</p>
+<!-- Trophies removed per request -->
 
 ---
 
@@ -209,7 +203,7 @@ fun_fact: "I debug code while listening to my own beats"
 ---
 
 <p align="center">
-  <b>�� "Sin programador no hay software. Con los demás, solo hay reuniones."</b>
+  <b>"Sin programador no hay software. Con los demás, solo hay reuniones."</b>
 </p>
 
 <!-- Footer -->
