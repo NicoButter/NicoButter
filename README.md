@@ -129,14 +129,18 @@ fun_fact: "I debug code while listening to my own beats"
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
+<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
+  <div style="flex:1 1 320px;max-width:520px;min-width:220px;padding:6px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%;height:auto;border-radius:15px;display:block;"/>
+  </div>
+  <div style="flex:1 1 320px;max-width:520px;min-width:220px;padding:6px;">
+    <img src="https://streak-stats.demolab.com?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" style="width:100%;height:auto;border-radius:15px;display:block;"/>
+  </div>
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages"/>
-</p>
+<div style="max-width:640px;margin:12px auto;text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" style="width:100%;height:auto;border-radius:15px;display:inline-block;"/>
+</div>
 
 <!-- Activity Graph -->
 <p align="center">
