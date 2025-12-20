@@ -163,7 +163,8 @@ fun_fact: "I debug code while listening to my own beats"
 | 🛠️ **IDEs** | VS Code, Eclipse, Kate |
 | 📟 **Terminal** | Yakuake + Zsh |
 | 🎵 **Music** | Clementine |
-| 🎹 **DAW** | Ableton / FL Studio |
+| 🎹 **DAW** | Cubase SX 5 |
+| 🤖 **AI/LLM** | Local LLMs on Linux |
 
 </td>
 <td>
@@ -189,15 +190,7 @@ fun_fact: "I debug code while listening to my own beats"
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicoButter/NicoButter/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📬 Let's Connect & Collaborate!
+##  Let's Connect & Collaborate!
 
 <p align="center">
   <a href="mailto:nicobutter@gmail.com">
