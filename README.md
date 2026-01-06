@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hello+World!+Welcome+to+my+profile;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%8E%B5+Coding+by+day%2C+producing+beats+by+night" alt="Typing SVG">
+  <strong>Despierta, Neo. Estás en el sistema — esto no es un "Hello World".</strong>
+  <br/>
+  <em>Explora fragmentos de código, paisajes sonoros y experimentos; no te fíes de los enlaces rotos, mira mi perfil para todo el origen.</em>
 </p>
 
 <!-- Social Badges Modernos -->
@@ -97,22 +99,15 @@ fun_fact: "I debug code while listening to my own beats"
 
 ---
 
-## 🌟 Featured Projects
+## 🌌 Módulos Seleccionados
 
 <p align="center">
-  <a href="https://github.com/NicoButter/dev-soundtrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoButter&repo=dev-soundtrack&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/NicoButter/iconwear-kde">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoButter&repo=iconwear-kde&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
+  <em>Fragmentos del sistema: código, arte y sonido — revisa mi perfil de GitHub para los repositorios completos.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NicoButter/UNPA_Coding_Games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoButter&repo=UNPA_Coding_Games&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
-</p>
+- Dev Soundtrack — integración de audio para flujos de desarrollo (repositorio en mi perfil).
+- Iconwear KDE — paquetes de iconos y temas para KDE (repositorio en mi perfil).
+- UNPA Coding Games — ejercicios y juegos educativos para practicar algoritmos.
 
 <details>
 <summary>📂 <b>More Projects</b></summary>
@@ -120,8 +115,8 @@ fun_fact: "I debug code while listening to my own beats"
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| [📚 LibroLink](https://github.com/NicoButter/LibroLink) | Library management system with modern UI | \`Django\` \`PostgreSQL\` \`Bootstrap\` |
-| [🧩 TEAM3 Backend](https://github.com/NicoButter/Proyecto_TEAM3_24112_Backend) | Java web application with Servlets | \`Java\` \`Tomcat\` \`MySQL\` |
+| 📚 LibroLink | Library management system with modern UI | Django, PostgreSQL, Bootstrap |
+| 🧩 TEAM3 Backend | Java web application with Servlets | Java, Tomcat, MySQL |
 
 </details>
 
