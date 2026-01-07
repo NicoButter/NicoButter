@@ -1,14 +1,14 @@
-<!-- Header Banner con Gradiente -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Music%20Producer%20%7C%20Linux%20Enthusiast&descAlignY=52&descSize=18"/>
+<!-- Header Banner with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255,0&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=fading&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Code%20Architect&descAlignY=52&descSize=18&dummy=1"/>
 
 <p align="center">
   <img src="img/perfil.png" alt="Nicolás Butterfield" width="100%" style="max-width: 600px; border-radius: 15px; object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <strong>Despierta, Neo. Estás en el sistema — esto no es un "Hello World".</strong>
-  <br/>
-  <em>Explora fragmentos de código, paisajes sonoros y experimentos; no te fíes de los enlaces rotos, mira mi perfil para todo el origen.</em>
+    <strong>Wake up. You're inside the system — this is not a "Hello World".</strong>
+    <br/>
+    <em>Because I choose to.</em>
 </p>
 
 <!-- Social Badges Modernos -->
@@ -35,7 +35,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -43,19 +43,19 @@
 name: Nicolás Butterfield
 location: Río Gallegos, Argentina 🇦🇷
 role: Freelance Fullstack Developer Jr.
-passion: Mixing code with music production
+passion: Mixing code with audio experimentation
 
 currently:
   - 🔭 Building apps with Django, Angular & Spring Boot
   - 🌱 Learning: Microservices, Cloud (AWS/GCP), DevOps
-  - 🎵 Producing electronic music in free time
-  
+  - 🎵 Working on audio-related tooling in spare time
+
 open_to:
   - Open Source contributions
   - Web platforms & ML tools
-  - Music tech experiments
-  
-fun_fact: "I debug code while listening to my own beats"
+  - Audio and creative tech experiments
+
+fun_fact: "I debug code while listening to my own tracks"
 ```
 
 <br clear="right"/>
@@ -162,7 +162,7 @@ fun_fact: "I debug code while listening to my own beats"
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 
 </td>
 </tr>
@@ -202,4 +202,4 @@ fun_fact: "I debug code while listening to my own beats"
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255,0&height=120&section=footer&animation=fading&dummy=1"/>
