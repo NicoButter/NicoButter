@@ -55,7 +55,7 @@ open_to:
   - Web platforms & ML tools
   - Audio and creative tech experiments
 
-fun_fact: "I debug code while listening to my own tracks"
+fun_fact: "I debug code while listening music"
 ```
 
 <br clear="right"/>
