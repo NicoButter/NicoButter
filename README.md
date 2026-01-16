@@ -1,5 +1,5 @@
-<!-- Header Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255,0&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=fading&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Code%20Architect&descAlignY=52&descSize=18&dummy=1"/>
+<!-- Header Banner with New Effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Code%20Architect&descAlignY=52&descSize=18&dummy=1"/>
 
 <p align="center">
   <img src="img/perfil.png" alt="Nicolás Butterfield" width="100%" style="max-width: 600px; border-radius: 15px; object-fit: cover;"/>
@@ -201,5 +201,5 @@ fun_fact: "I debug code while listening music"
   <b>"Sin programador no hay software. Con los demás, solo hay reuniones."</b>
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255,0&height=120&section=footer&animation=fading&dummy=1"/>
+<!-- Footer with New Effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=5,6,7&height=120&section=footer&animation=twinkle&dummy=1"/>
