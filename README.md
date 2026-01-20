@@ -12,19 +12,6 @@
 }
 </style>
 
-<!-- Header Banner with New Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Code%20Architect&descAlignY=52&descSize=18&dummy=1"/>
-
-<p align="center">
-  <img src="img/perfil.png" alt="Nicolás Butterfield" width="100%" style="max-width: 600px; border-radius: 15px; object-fit: cover;"/>
-</p>
-
-<p align="center">
-    <strong>Wake up. You're inside the system — this is not a "Hello World".</strong>
-    <br/>
-    <em>Because I choose to.</em>
-</p>
-
 <!-- Social Badges Modernos -->
 <p align="center">
   <a href="https://github.com/NicoButter">
