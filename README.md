@@ -1,3 +1,17 @@
+<!-- Matrix-Inspired Header -->
+<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; text-align: center; padding: 20px;">
+  <h1 style="margin: 0; font-size: 3em; animation: matrix-fall 1.5s infinite;">Wake up, Neo...</h1>
+  <p style="margin: 0; font-size: 1.2em;">The Matrix has you.</p>
+</div>
+
+<style>
+@keyframes matrix-fall {
+  0% { opacity: 0; transform: translateY(-100%); }
+  50% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(100%); }
+}
+</style>
+
 <!-- Header Banner with New Effects -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Nicolás%20Butterfield&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Code%20Architect&descAlignY=52&descSize=18&dummy=1"/>
 
@@ -197,9 +211,7 @@ fun_fact: "I debug code while listening music"
 
 ---
 
-<p align="center">
-  <b>"Sin programador no hay software. Con los demás, solo hay reuniones."</b>
-</p>
-
-<!-- Footer with New Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=5,6,7&height=120&section=footer&animation=twinkle&dummy=1"/>
+<!-- Matrix-Inspired Footer -->
+<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; text-align: center; padding: 20px;">
+  <p style="margin: 0; font-size: 1em;">Follow the white rabbit...</p>
+</div>
