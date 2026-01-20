@@ -1,16 +1,7 @@
 <!-- Matrix-Inspired Header -->
-<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; text-align: center; padding: 20px;">
-  <h1 style="margin: 0; font-size: 3em; animation: matrix-fall 1.5s infinite;">Wake up, Neo...</h1>
-  <p style="margin: 0; font-size: 1.2em;">The Matrix has you.</p>
-</div>
-
-<style>
-@keyframes matrix-fall {
-  0% { opacity: 0; transform: translateY(-100%); }
-  50% { opacity: 1; transform: translateY(0); }
-  100% { opacity: 0; transform: translateY(100%); }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit." alt="Matrix Header" />
+</p>
 
 <!-- Social Badges Modernos -->
 <p align="center">
