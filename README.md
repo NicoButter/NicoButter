@@ -1,6 +1,6 @@
 <!-- Matrix-Inspired Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit." alt="Matrix Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=I+know+Kung+Fu;The+Matrix+is+everywhere;Choose+the+red+pill" alt="Matrix Header" />
 </p>
 
 <!-- Social Badges Modernos -->
