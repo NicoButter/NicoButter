@@ -184,7 +184,9 @@ fun_fact: "I debug code while listening music"
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <blockquote align="center">
+    "Artificial intelligence is the science of making machines do things that would require intelligence if done by men." - John McCarthy
+  </blockquote>
 </p>
 
 ---
