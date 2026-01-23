@@ -131,6 +131,11 @@ fun_fact: "I debug code while listening music"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoButter&theme=tokyo-night&hide_border=true&radius=15" width="95%" alt="Activity Graph"/>
 </p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+</p>
+
 <!-- Trophies removed per request -->
 
 ---
