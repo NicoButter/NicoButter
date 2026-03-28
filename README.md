@@ -116,37 +116,29 @@ fun_fact: "I debug code while listening music"
 
 ## 📊 GitHub Analytics
 
-<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
-  <div style="flex:1 1 320px;max-width:520px;min-width:220px;padding:6px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%;height:auto;border-radius:15px;display:block;"/>
-  </div>
-</div>
-
-<div style="max-width:640px;margin:12px auto;text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" style="width:100%;height:auto;border-radius:15px;display:inline-block;"/>
-</div>
-
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoButter&theme=tokyo-night&hide_border=true&radius=15" width="95%" alt="Activity Graph"/>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-<!-- Lowlighter Metrics (versión avanzada con METRICS_TOKEN) -->
-<p align="center">
-  <img src="https://github.com/NicoButter/NicoButter/blob/main/github-metrics.svg" 
-       alt="GitHub Metrics" 
-       width="95%" 
-       style="border-radius:15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; max-width:650px; border-radius:15px;"/>
 </p>
 
 <p align="center">
-  <em>📈 Mis métricas completas generadas con GitHub Metrics</em>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" style="width:100%; max-width:650px; border-radius:15px;"/>
 </p>
+
+<!-- Activity Graph - tema corregido -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoButter&theme=tokyonight&hide_border=true&radius=15" width="95%" alt="Activity Graph"/>
+</p>
+
+<!-- GitHub Streak (más confiable) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+</p>
+
+<!-- Lowlighter Metrics (la avanzada con tu token) -->
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="95%" style="border-radius:15px;"/>
+</p>
+<p align="center"><em>📈 Métricas completas generadas con lowlighter/metrics</em></p>
 
 <!-- Trophies removed per request -->
 
