@@ -1,26 +1,18 @@
-name: Metrics
+name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"    # Se ejecuta todos los días a medianoche
+  workflow_dispatch:       # Permite ejecutarlo manualmente
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          user: NicoButter
           token: ${{ secrets.METRICS_TOKEN }}
-
-          base: header, activity, community, repositories, metadata
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-
-          plugin_isocalendar: yes
-          plugin_stars: yes
-          plugin_followup: yes
+          # Configuración básica (puedes agregar más plugins después)
+          user: NicoButter
+          template: classic
+          config_timezone: America/Argentina/Buenos_Aires
