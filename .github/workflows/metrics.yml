@@ -1,0 +1,26 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: NicoButter
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_followup: yes
