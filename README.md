@@ -136,6 +136,18 @@ fun_fact: "I debug code while listening music"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoButter&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
+<!-- Lowlighter Metrics (versión avanzada con METRICS_TOKEN) -->
+<p align="center">
+  <img src="https://github.com/NicoButter/NicoButter/blob/main/github-metrics.svg" 
+       alt="GitHub Metrics" 
+       width="95%" 
+       style="border-radius:15px;"/>
+</p>
+
+<p align="center">
+  <em>📈 Mis métricas completas generadas con GitHub Metrics</em>
+</p>
+
 <!-- Trophies removed per request -->
 
 ---
