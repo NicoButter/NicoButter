@@ -89,6 +89,10 @@ Happy to discuss    → Freelance projects, open source and creative tech
   </picture>
 </p>
 
+<p align="center">
+  <img src="/github-metrics.svg" alt="Detailed GitHub metrics for Nicolás Butterfield" width="95%" />
+</p>
+
 > GitHub language statistics describe public repository content; they are not a measure of proficiency.
 
 ## Beyond code
