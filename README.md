@@ -30,6 +30,20 @@ Currently learning  → Cloud architecture, DevOps and microservices
 Happy to discuss    → Freelance projects, open source and creative tech
 ```
 
+## 🚀 Vetrabyte
+
+<div align="center">
+  <img src="./img/logo_vetrabyte.webp" alt="Vetrabyte — software development" width="320" />
+  <h3>Software built to operate, grow and evolve</h3>
+  <p>
+    Vetrabyte is my software development venture—the brand under which I build web applications,
+    management systems, SaaS platforms, automations, APIs and digital infrastructure for businesses,
+    professionals and organizations.
+  </p>
+  <p><code>Web Development</code> · <code>SaaS</code> · <code>Management Systems</code> · <code>Automation</code> · <code>APIs</code> · <code>Infrastructure</code></p>
+  <a href="https://vetrabyte.com.ar/"><img src="https://img.shields.io/badge/Explore_Vetrabyte-00D9C0?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="Visit the official Vetrabyte website" /></a>
+</div>
+
 ## Selected work
 
 | Project | What it explores | Stack |
