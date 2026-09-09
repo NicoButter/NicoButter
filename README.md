@@ -80,17 +80,17 @@ Happy to discuss    → Freelance projects, open source and creative tech
   <img src="./github-metrics.svg" alt="GitHub profile overview for Nicolás Butterfield" width="95%" />
 </p>
 
-### Languages and achievements
+### Languages and repository stats
 
 <p align="center">
   <img src="./github-languages.svg" alt="Most-used languages across Nicolás Butterfield's repositories" width="48%" />
-  <img src="./github-achievements.svg" alt="GitHub achievements for Nicolás Butterfield" width="48%" />
+  <img src="./github-repositories.svg" alt="GitHub repository statistics for Nicolás Butterfield" width="48%" />
 </p>
 
-### Coding activity
+### Recent GitHub activity
 
 <p align="center">
-  <img src="./github-activity.svg" alt="Recent coding activity and coding habits for Nicolás Butterfield" width="95%" />
+  <img src="./github-activity.svg" alt="Recent GitHub activity for Nicolás Butterfield" width="95%" />
 </p>
 
 ### Contributions
