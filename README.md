@@ -74,17 +74,28 @@ Happy to discuss    → Freelance projects, open source and creative tech
 
 </details>
 
-## GitHub activity
+## GitHub dashboard
+
+<p align="center">
+  <code>auto-updated daily</code> · <code>GitHub Actions</code> · <code>lowlighter/metrics</code>
+</p>
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub profile overview for Nicolás Butterfield" width="95%" />
 </p>
 
-### Languages and repository stats
+### Technology footprint
 
 <p align="center">
   <img src="./github-languages.svg" alt="Most-used languages across Nicolás Butterfield's repositories" width="48%" />
   <img src="./github-repositories.svg" alt="GitHub repository statistics for Nicolás Butterfield" width="48%" />
+</p>
+
+### Development pulse
+
+<p align="center">
+  <img src="./github-recent-languages.svg" alt="Languages used recently by Nicolás Butterfield" width="48%" />
+  <img src="./github-lines.svg" alt="Lines of code changed over time by Nicolás Butterfield" width="48%" />
 </p>
 
 ### Recent GitHub activity
@@ -99,9 +110,9 @@ Happy to discuss    → Freelance projects, open source and creative tech
   <img src="./github-calendar.svg" alt="Full-year GitHub contribution calendar for Nicolás Butterfield" width="95%" />
 </p>
 
-<sub>These dashboards are generated automatically by GitHub Actions from GitHub data and refreshed daily.</sub>
+<sub>The classic panels prioritize readability; the development-pulse panels use Metrics' terminal template for a subtle Vetrabyte-style technical accent. All dashboards are generated automatically from GitHub data.</sub>
 
-> GitHub language statistics describe repository content; they are not a measure of proficiency.
+> GitHub language statistics describe repository content and recent activity; they are not a measure of proficiency.
 
 ## Beyond code
 
