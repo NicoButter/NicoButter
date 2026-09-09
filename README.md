@@ -95,13 +95,13 @@ Happy to discuss    → Freelance projects, open source and creative tech
 
 <p align="center">
   <img src="./github-recent-languages.svg" alt="Languages used recently by Nicolás Butterfield" width="48%" />
-  <img src="./github-lines.svg" alt="Lines of code changed over time by Nicolás Butterfield" width="48%" />
+  <img src="./github-activity.svg" alt="Recent GitHub activity for Nicolás Butterfield" width="48%" />
 </p>
 
-### Recent GitHub activity
+### Code evolution
 
 <p align="center">
-  <img src="./github-activity.svg" alt="Recent GitHub activity for Nicolás Butterfield" width="95%" />
+  <img src="./github-lines.svg" alt="Lines of code changed over time by Nicolás Butterfield" width="95%" />
 </p>
 
 ### Contributions
@@ -110,7 +110,7 @@ Happy to discuss    → Freelance projects, open source and creative tech
   <img src="./github-calendar.svg" alt="Full-year GitHub contribution calendar for Nicolás Butterfield" width="95%" />
 </p>
 
-<sub>The classic panels prioritize readability; the development-pulse panels use Metrics' terminal template for a subtle Vetrabyte-style technical accent. All dashboards are generated automatically from GitHub data.</sub>
+<sub>These dashboards prioritize readability and are generated automatically from GitHub data every day.</sub>
 
 > GitHub language statistics describe repository content and recent activity; they are not a measure of proficiency.
 
