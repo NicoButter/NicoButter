@@ -77,23 +77,31 @@ Happy to discuss    → Freelance projects, open source and creative tech
 ## GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NicoButter&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Nicolás Butterfield's GitHub statistics" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&hide_border=true&theme=default&langs_count=6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoButter&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Most-used languages across public repositories" height="165" />
-  </picture>
+  <img src="./github-metrics.svg" alt="GitHub profile overview for Nicolás Butterfield" width="95%" />
 </p>
+
+### Languages and achievements
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Detailed GitHub metrics for Nicolás Butterfield" width="95%" />
+  <img src="./github-languages.svg" alt="Most-used languages across Nicolás Butterfield's repositories" width="48%" />
+  <img src="./github-achievements.svg" alt="GitHub achievements for Nicolás Butterfield" width="48%" />
 </p>
 
-> GitHub language statistics describe public repository content; they are not a measure of proficiency.
+### Coding activity
+
+<p align="center">
+  <img src="./github-activity.svg" alt="Recent coding activity and coding habits for Nicolás Butterfield" width="95%" />
+</p>
+
+### Contributions
+
+<p align="center">
+  <img src="./github-calendar.svg" alt="Full-year GitHub contribution calendar for Nicolás Butterfield" width="95%" />
+</p>
+
+<sub>These dashboards are generated automatically by GitHub Actions from GitHub data and refreshed daily.</sub>
+
+> GitHub language statistics describe repository content; they are not a measure of proficiency.
 
 ## Beyond code
 
