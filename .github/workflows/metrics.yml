@@ -21,29 +21,121 @@ jobs:
   metrics:
     name: Render profile metrics
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     steps:
-      - name: Generate detailed profile metrics
+      - name: Render overview
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ github.token }}
           user: NicoButter
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Rio_Gallegos
+          output_action: none
+          retries: 3
+          retries_delay: 10
+          verify: yes
+
+      - name: Render language statistics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NicoButter
+          filename: github-languages.svg
+          template: classic
+          base: ""
+          config_timezone: America/Argentina/Rio_Gallegos
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_languages_details: percentage
+          output_action: none
+          retries: 3
+          retries_delay: 10
+          verify: yes
+
+      - name: Render coding activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NicoButter
+          filename: github-activity.svg
+          template: classic
+          base: ""
+          config_timezone: America/Argentina/Rio_Gallegos
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: graph
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_days: 14
+          output_action: none
           retries: 3
           retries_delay: 10
           verify: yes
+
+      - name: Render contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NicoButter
+          filename: github-calendar.svg
+          template: classic
+          base: ""
+          config_timezone: America/Argentina/Rio_Gallegos
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: none
+          retries: 3
+          retries_delay: 10
+          verify: yes
+
+      - name: Render achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: NicoButter
+          filename: github-achievements.svg
+          template: classic
+          base: ""
+          config_timezone: America/Argentina/Rio_Gallegos
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          output_action: none
+          retries: 3
+          retries_delay: 10
+          verify: yes
+
+      - name: Publish generated SVGs
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Commit profile metrics
+        shell: bash
+        run: |
+          sudo cp /metrics_renders/github-metrics.svg ./github-metrics.svg
+          sudo cp /metrics_renders/github-languages.svg ./github-languages.svg
+          sudo cp /metrics_renders/github-activity.svg ./github-activity.svg
+          sudo cp /metrics_renders/github-calendar.svg ./github-calendar.svg
+          sudo cp /metrics_renders/github-achievements.svg ./github-achievements.svg
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-metrics.svg github-languages.svg github-activity.svg github-calendar.svg github-achievements.svg
+
+          if git diff --cached --quiet; then
+            echo "No metric changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: refresh GitHub profile metrics"
+          git pull --rebase origin main
+          git push origin HEAD:main
