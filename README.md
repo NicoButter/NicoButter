@@ -94,8 +94,7 @@ Happy to discuss    → Freelance projects, open source and creative tech
 ### Development pulse
 
 <p align="center">
-  <img src="./github-recent-languages.svg" alt="Languages used recently by Nicolás Butterfield" width="48%" />
-  <img src="./github-activity.svg" alt="Recent GitHub activity for Nicolás Butterfield" width="48%" />
+  <img src="./github-activity.svg" alt="Recent GitHub activity for Nicolás Butterfield" width="95%" />
 </p>
 
 ### Code evolution
@@ -112,7 +111,7 @@ Happy to discuss    → Freelance projects, open source and creative tech
 
 <sub>These dashboards prioritize readability and are generated automatically from GitHub data every day.</sub>
 
-> GitHub language statistics describe repository content and recent activity; they are not a measure of proficiency.
+> GitHub language statistics describe repository content; they are not a measure of proficiency.
 
 ## Beyond code
 
