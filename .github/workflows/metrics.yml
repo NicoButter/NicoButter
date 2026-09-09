@@ -78,15 +78,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NicoButter
           filename: github-recent-languages.svg
-          template: terminal
+          template: classic
           base: ""
           config_timezone: America/Argentina/Rio_Gallegos
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_details: percentage
           plugin_languages_limit: 6
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 90
+          plugin_languages_recent_load: 1000
           plugins_errors_fatal: yes
           output_action: none
           retries: 3
@@ -99,7 +99,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: NicoButter
           filename: github-lines.svg
-          template: terminal
+          template: classic
           base: ""
           config_timezone: America/Argentina/Rio_Gallegos
           plugin_lines: yes
